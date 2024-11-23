@@ -1,5 +1,5 @@
 <h1 align="center">AIRISU 🤔</h1>
-<h2 align="center">**A**m **I** **R**eally **I**diotic, **S**tupid **U**ltimately? 🤔</h2>
+<h2 align="center">Am I Really Idiotic, Stupid Ultimately? 🤔</h2>
 
 <p align="center">
     <a href="https://airisu.cap1tal.top">
