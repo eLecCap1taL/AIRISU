@@ -2,6 +2,9 @@
 <h2 align="center">How airisu's Brain works? 🤔</h2>
 
 <p align="center">
+    <a href="https://cap1tal.top/CSRM">
+        <img alt="Static Badge" src="https://img.shields.io/badge/website-HABW-blue?style=for-the-badge">
+    </a>
     <a href="https://github.com/eLecCap1taL/CSRM/pulse">
         <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/eLecCap1taL/HABW?style=for-the-badge">
     </a>
