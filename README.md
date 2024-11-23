@@ -1,12 +1,12 @@
-<h1 align="center">HABW 🤔</h1>
-<h2 align="center">How airisu's Brain works? 🤔</h2>
+<h1 align="center">AIRISU 🤔</h1>
+<h2 align="center">**A**m **I** **R**eally **I**diotic, **S**tupid **U**ltimately? 🤔</h2>
 
 <p align="center">
     <a href="https://airisu.cap1tal.top">
-        <img alt="Static Badge" src="https://img.shields.io/badge/website-HABW-blue?style=for-the-badge">
+        <img alt="Static Badge" src="https://img.shields.io/badge/website-AIRISU-blue?style=for-the-badge">
     </a>
-    <a href="https://github.com/eLecCap1taL/CSRM/pulse">
-        <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/eLecCap1taL/HABW?style=for-the-badge">
+    <a href="https://github.com/eLecCap1taL/AIRISU/pulse">
+        <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/eLecCap1taL/AIRISU?style=for-the-badge">
     </a>
 </p>
 
